@@ -1,0 +1,11 @@
+Question,Opt_1,Opt_2,Opt_3,Opt_4,Opt_5,Opacity_1,Opacity_2,Opacity_3,Opacity_4,Opacity_5,Color_1,Color_2,Color_3,Color_4,Color_5
+"¿Con qué frecuencia consume alguna bebida alcohólica? Ej. (cerveza, cocktails, etc.)",Nunca,Una o menos veces al mes,De 2 a 4 veces al mes,De 2 a 3 veces a la semana,4 o más veces al mes,1,1,1,1,1,black,black,black,black,black
+¿Cuantas bebidas alcohólicas suele tomar en un día normal cuando bebe?,1 o 2,3 o 4,5 o 6,"7, 8 o 9",10 o más,1,1,1,1,1,black,black,black,black,black
+¿Con qué frecuencia toma 6 o más bebidas alcohólicas en un solo día?,Nunca,Menos de una vez al mes,Mensualmente,Semanalmente,A diario o casi a diario,1,1,1,1,1,black,black,black,black,black
+En el último año ¿Con qué frecuencia ha sido incapaz de parar de beber una vez había empezado?,Nunca,Menos de una vez al mes,Mensualmente,Semanalmente,A diario o casi a diario,1,1,1,1,1,black,black,black,black,black
+En el último año ¿Con qué frecuencia no pudo hacer lo que se esperaba de usted porque había bebido?,Nunca,Menos de una vez al mes,Mensualmente,Semanalmente,A diario o casi a diario,1,1,1,1,1,black,black,black,black,black
+En el último año ¿Con qué frecuencia ha necesitado beber al levantarse para recuperarse después de haber bebido mucho el día anterior?,Nunca,Menos de una vez al mes,Mensualmente,Semanalmente,A diario o casi a diario,1,1,1,1,1,black,black,black,black,black
+En el último año ¿Con qué frecuencia ha tenido remordimientos o se ha sentido culpable después de haber bebido?,Nunca,Menos de una vez al mes,Mensualmente,Semanalmente,A diario o casi a diario,1,1,1,1,1,black,black,black,black,black
+En el último año ¿Con qué frecuencia no ha podido recordar lo que sucedió la noche anterior porque había estado bebiendo?,Nunca,Menos de una vez al mes,Mensualmente,Semanalmente,A diario o casi a diario,1,1,1,1,1,black,black,black,black,black
+¿Usted o alguna otra persona ha resultado herido porque usted había bebido?,No,"Sí, pero no en el curso del último año","Sí, el último año",,,1,1,1,0,0,black,black,black,white,white
+"¿A algún familiar, amigo, médico o profesional sanitario ha preocupado su consumo de bebidas alcohólicas o le ha sugerido que beba menos?",No,"Sí, pero no en el curso del último año","Sí, el último año",,,1,1,1,0,0,black,black,black,white,white
