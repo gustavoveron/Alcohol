@@ -36,6 +36,3 @@ El experimento genera un archivo CSV por participante que incluye:
 * Respuestas ítem por ítem de los cuestionarios.
 * Tiempos de reacción (RT) por pregunta.
 * Secuencia completa de elecciones en la IGT (Mazo A, B, C, D).
-
-**Diseño y Desarrollo:** Dr. Gustavo L. Verón
-**Institución:** Laboratorio de Inteligencia Artificial Aplicada (LIAA) - ICC - UBA/CONICET
